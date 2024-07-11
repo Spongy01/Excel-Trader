@@ -1,0 +1,3 @@
+[submodule "dhan/api/api"]
+	path = dhan/api/api
+	url = https://github.com/Spongy01/DhanHQ-py.git
