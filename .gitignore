@@ -3,3 +3,11 @@
 dhan/testings
 dhan/src/api-scrip-master.csv
 dhan/src/TradeSheet.xlsx
+dhan/src/credentials.yaml
+Excel - Trading - KB.xlsx
+dhan/src/ExcelTrader.spec
+dhan/src/EXECHECK.spec
+dhan/src/build
+dhan/src/dist
+dhan/src/~$TradeSheet.xlsx
+dhan/__pycache__/*
